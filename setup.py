@@ -3,7 +3,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 setuptools.setup(
      name='base64tool',  
-     version='0.2',
+     version='0.3',
      scripts=['base64tool'] ,
      author="Kumari Aishwarya",
      author_email="k.aishwarya15@gmail.com ",
