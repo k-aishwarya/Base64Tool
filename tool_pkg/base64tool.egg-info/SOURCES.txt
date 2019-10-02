@@ -1,0 +1,7 @@
+README.md
+base64tool
+setup.py
+base64tool.egg-info/PKG-INFO
+base64tool.egg-info/SOURCES.txt
+base64tool.egg-info/dependency_links.txt
+base64tool.egg-info/top_level.txt
